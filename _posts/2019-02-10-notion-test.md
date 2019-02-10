@@ -1,7 +1,9 @@
 ---
+layout: post
 title: 지킬(jekyll) 로 포스팅하기
 date: 2019-02-10 15:00:00 -0400
 category: Develop
+tags: [blog, jekyll, github.io]
 ---
 
 # [Github.io](http://github.io) Posting Test
