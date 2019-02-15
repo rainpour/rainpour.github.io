@@ -1,13 +1,14 @@
 ---
-layout: post
-title: 지킬(jekyll) 로 포스팅하기
-date: 2019-02-10 15:00:00 -0400
-category: Develop
-tags: [blog, jekyll, github.io]
+title: "지킬(jekyll) 로 포스팅하기"
+categories:
+- Dev
+tags:
+- blog
+- jekyll
+- github.io case
 ---
 
-# [Github.io](http://github.io) Posting Test
-
+# Github.io Blog 만들기
 ## Jekyll
 
 - Notion으로 글 작성
