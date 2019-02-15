@@ -1,11 +1,15 @@
 ---
 title: "지킬(jekyll) 로 포스팅하기"
+
 categories:
 - Dev
+
 tags:
 - blog
 - jekyll
 - github.io case
+
+author_profile: true
 ---
 
 # Github.io Blog 만들기
