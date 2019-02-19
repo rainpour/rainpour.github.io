@@ -1,12 +1,14 @@
 ---
-layout: post
-title: 지킬(jekyll) 로 포스팅하기
-date: 2019-02-10 15:00:00 -040
-category: Develop
-tags: [blog, jekyll, github.io]
----
+title: "지킬(jekyll) 로 포스팅하기"
 
-[https://github.com/topics/jekyll-theme](https://github.com/topics/jekyll-theme)
+categories:
+- Dev
+
+tags:
+- blog
+- jekyll
+- github.io
+---
 
 ![](./make_new_repository.png)
 
