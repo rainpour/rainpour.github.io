@@ -7,9 +7,7 @@ categories:
 tags:
 - blog
 - jekyll
-- github.io case
-
-author_profile: true
+- github.io
 ---
 
 # Github.io Blog 만들기
